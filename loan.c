@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
-NAME:cecilia muthoni iregi 
-REG:CT100/G/26194/25
+NAME:salma mwangi ngunyih
+REG:CT100/G/26179/25
 DESCRIPTION: loan qualification
 */
 
