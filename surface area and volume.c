@@ -1,6 +1,6 @@
 /*
-NAME:cecilia muthoni iregi 
-REG:CT100/G/26194/25
+NAME:salma mwangi ngunyih
+REG:CT100/G/26179/25
 DESCRIPTION :surface area and volume of a cylinder 
 #define PI 3.14159 ;// define Pi value';'
 */
